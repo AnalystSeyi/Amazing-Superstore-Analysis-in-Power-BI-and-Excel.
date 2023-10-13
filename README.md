@@ -2,7 +2,9 @@
 
 This task was assigned on Power BI, and I went further to analyze it on Excel so as to showcase competency.
 
-I was Assigned the Task of QA Test on SQL
+After the presentation of the analysis on Power BI was further assigned a QA task.
+
+#### I was Assigned the Task of QA Test on SQL
 
 Write SQL queries and create a test document to QA the DASHBOARD developed in Power BI software.
 
@@ -12,19 +14,21 @@ Write SQL queries and create a test document to QA the DASHBOARD developed in Po
 
 3. Test Document: Create a test document that will contain the screenshots and queries used to test the reports.
 
-## Click below to have access to the analysis either on Power BI, Excel or SQL
+### Click below to have access to the analysis either on Power BI, Excel or SQL
 
 ***
 #### 🚀Power BI
 I'm an insightful and result driven data analyst, creative in finding solutions to problems and determining modifications for optimal use of organizational data. Committed to the culture of striving to achieve the company's vision by providing insightful reports using advanced analytical, research, and reporting skills.
 ***
 
-#### 🛠 Skills
+#### 🛠 Excel
 SQL (T-SQL), Advance Excel, Power BI, HTML 5 and CSS
 ***
 🎥 When I'm not coding, I am playing Fifa or spending time with friends and family
 
-💬 Ask me about Data Analytics
+#### 🛠 SQL
+SQL (T-SQL), Advance Excel, Power BI, HTML 5 and CSS
+***
 <br><br><br>
 📫 **How to reach me :** <br> 
   📧   Email         |  linkedin
