@@ -18,7 +18,7 @@ Write SQL queries and create a test document to QA the DASHBOARD developed in Po
 
 ***
 #### 🚀Power BI
-I'm an insightful and result driven data analyst, creative in finding solutions to problems and determining modifications for optimal use of organizational data. Committed to the culture of striving to achieve the company's vision by providing insightful reports using advanced analytical, research, and reporting skills.
+![](powerbi-pic01.png)
 ***
 
 #### 🛠 Excel
