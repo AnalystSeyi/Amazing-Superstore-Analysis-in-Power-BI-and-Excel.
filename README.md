@@ -14,7 +14,7 @@ Write SQL queries and create a test document to QA the DASHBOARD developed in Po
 
 3. Test Document: Create a test document that will contain the screenshots and queries used to test the reports.
 
-### Click the icons below to have access to the analysis either on Power BI, Excel or SQL
+### Click any of the icon below to have access to the analysis, either on Power BI, Excel or SQL
 
 ***
 #### 🚀Power BI
@@ -35,12 +35,14 @@ Write SQL queries and create a test document to QA the DASHBOARD developed in Po
 :------------------:  | :------------------:  | :------------------:
 [![](Github/j2.png)](https://www.linkedin.com/in/oluwaseyi-fatuase-16009b161/) | [![](Github/excel-smal.png)](https://www.linkedin.com/in/oluwaseyi-fatuase-16009b161/)|[![](Github/sql1.png)](https://www.linkedin.com/in/oluwaseyi-fatuase-16009b161/)
 
-<br><br><br>
-📫 **How to reach me :** <br> 
-  📧   Email         |  🛠 Excel  |  👀 SQL
-:------------------:  | :------------------: | :------------------:
-AnalystSeyi@gmail.com  | [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oluwaseyi-fatuase-16009b161/)
 
+<br><br>
+
+📫 **How to reach me :** <br> 
+💬 Ask me about Data Analytics <br>
+  📧   Email         |  linkedin
+:------------------:  | :------------------:
+AnalystSeyi@gmail.com  | [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oluwaseyi-fatuase-16009b161/)
 <!---
 
 AnalystSeyi/AnalystSeyi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
