@@ -18,7 +18,7 @@ Write SQL queries and create a test document to QA the DASHBOARD developed in Po
 
 ***
 #### 🚀Power BI
-[![](Github/j2.png)]([https://www.linkedin.com/in/oluwaseyi-fatuase-16009b161/](https://github.com/AnalystSeyi/Amazing-Superstore-Analysis-Power-BI))
+[![](Github/j2.png)](https://www.linkedin.com/in/oluwaseyi-fatuase-16009b161/)
 ***
 
 #### 🛠 Excel
