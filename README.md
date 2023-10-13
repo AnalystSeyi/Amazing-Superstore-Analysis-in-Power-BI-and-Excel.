@@ -33,7 +33,7 @@ Write SQL queries and create a test document to QA the DASHBOARD developed in Po
 
   🚀Power BI   |  🛠 Excel  |  👀 SQL
 :------------------:  | :------------------:  | :------------------:
-[![](Github/j2.png)]([https://www.linkedin.com/in/oluwaseyi-fatuase-16009b161/](https://github.com/AnalystSeyi/Amazing-Superstore-Analysis-Power-BI)) | [![](Github/excel-smal.png)](https://www.linkedin.com/in/oluwaseyi-fatuase-16009b161/)|[![](Github/sql1.png)](https://www.linkedin.com/in/oluwaseyi-fatuase-16009b161/)
+[![](Github/j2.png)](https://www.linkedin.com/in/oluwaseyi-fatuase-16009b161/) | [![](Github/excel-smal.png)](https://www.linkedin.com/in/oluwaseyi-fatuase-16009b161/)|[![](Github/sql1.png)](https://www.linkedin.com/in/oluwaseyi-fatuase-16009b161/)
 
 
 <br><br>
