@@ -24,11 +24,11 @@ Write SQL queries and create a test document to QA the DASHBOARD developed in Po
 #### 🛠 Excel
 ![](Excel.png)
 ***
-🎥 When I'm not coding, I am playing Fifa or spending time with friends and family
 
 #### 🛠 SQL
 ![](Snowflake.png)
 ***
+
 <br><br><br>
 📫 **How to reach me :** <br> 
   📧   Email         |  linkedin
