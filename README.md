@@ -1,14 +1,21 @@
 # Amazing-Superstore-Analysis-in-Power-BI-and-Excel.
 
-## Hi, I'm AnalystSeyi 👋
-I'm a Data Analyst/BI Expert
+This task was assigned on Power BI, and I went further to analyze it on Excel so as to showcase competency.
 
-👀 I'm interested in Data Analytics and Business Intelligence.
+I was Assigned the Task of QA Test on SQL
 
-💞️ I’m looking to collaborate on everything data analysis projects
+Write SQL queries and create a test document to QA the DASHBOARD developed in Power BI software.
+
+1. Functional Validation: Test each feature as per the requirement. To verify all the filters and action filters on the report work as per the requirement
+
+2. Data Validation: Check the accuracy and quality of the data to match the value in the Power BI report with SQL queries.
+
+3. Test Document: Create a test document that will contain the screenshots and queries used to test the reports.
+
+## Click below to have access to the analysis either on Power BI, Excel or SQL
 
 ***
-#### 🚀About Me
+#### 🚀Power BI
 I'm an insightful and result driven data analyst, creative in finding solutions to problems and determining modifications for optimal use of organizational data. Committed to the culture of striving to achieve the company's vision by providing insightful reports using advanced analytical, research, and reporting skills.
 ***
 
