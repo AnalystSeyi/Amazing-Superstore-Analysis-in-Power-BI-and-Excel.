@@ -18,15 +18,15 @@ Write SQL queries and create a test document to QA the DASHBOARD developed in Po
 
 ***
 #### 🚀Power BI
-![](Github/j2.png)
+[![](Github/j2.png)](https://www.linkedin.com/in/oluwaseyi-fatuase-16009b161/)
 ***
 
 #### 🛠 Excel
-![](Github/excel-smal.png)
+[![](Github/excel-smal.png)](https://www.linkedin.com/in/oluwaseyi-fatuase-16009b161/)
 ***
 
 #### 👀 SQL
-![](Github/sql1.png)
+[![](Github/sql1.png)](https://www.linkedin.com/in/oluwaseyi-fatuase-16009b161/)
 ***
 
 <br><br><br>
