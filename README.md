@@ -18,11 +18,11 @@ Write SQL queries and create a test document to QA the DASHBOARD developed in Po
 
 ***
 #### 🚀Power BI
-![](123.jpeg)
+![](Github/BI New.png)
 ***
 
 #### 🛠 Excel
-![](Excel.png)
+![](Github/Excel new.png)
 ***
 
 #### 👀 SQL
@@ -40,3 +40,5 @@ AnalystSeyi@gmail.com  | [![linkedin](https://img.shields.io/badge/linkedin-0A66
 AnalystSeyi/AnalystSeyi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
