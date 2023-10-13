@@ -25,7 +25,7 @@ Write SQL queries and create a test document to QA the DASHBOARD developed in Po
 ![](Excel.png)
 ***
 
-#### 🛠 SQL
+#### 👀 SQL
 ![](Snowflake.png)
 ***
 
