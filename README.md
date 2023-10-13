@@ -22,12 +22,12 @@ Write SQL queries and create a test document to QA the DASHBOARD developed in Po
 ***
 
 #### 🛠 Excel
-SQL (T-SQL), Advance Excel, Power BI, HTML 5 and CSS
+![](Excel.png)
 ***
 🎥 When I'm not coding, I am playing Fifa or spending time with friends and family
 
 #### 🛠 SQL
-SQL (T-SQL), Advance Excel, Power BI, HTML 5 and CSS
+![](Snowflake.png)
 ***
 <br><br><br>
 📫 **How to reach me :** <br> 
