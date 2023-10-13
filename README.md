@@ -18,7 +18,7 @@ Write SQL queries and create a test document to QA the DASHBOARD developed in Po
 
 ***
 #### 🚀Power BI
-![](powerbi-pic01.png)
+![](123.jpeg)
 ***
 
 #### 🛠 Excel
