@@ -14,7 +14,7 @@ Write SQL queries and create a test document to QA the DASHBOARD developed in Po
 
 3. Test Document: Create a test document that will contain the screenshots and queries used to test the reports.
 
-### Click any of the icon below to have access to the analysis, either on Power BI, Excel or SQL
+### Click any of the icon below to have access to the analysis, either on Power BI and SQL
 
 ***
 #### 🚀Power BI
