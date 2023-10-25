@@ -1,8 +1,8 @@
-# Amazing-Superstore-Analysis-in-Power-BI-and-Excel.
+# Amazing-Superstore-Analysis-in-Power-BI-and-SQL
 
-This task was assigned on Power BI, and I went further to analyze it on Excel so as to showcase competency.
+This task was assigned and carried out in Power BI.
 
-After the presentation of the analysis on Power BI was further assigned a QA task.
+After the presentation of the report on Power BI, I was further assigned a QA task.
 
 #### I was Assigned the Task of QA Test on SQL
 
@@ -25,12 +25,6 @@ Write SQL queries and create a test document to QA the DASHBOARD developed in Po
 [![](Github/sql1.png)](https://github.com/AnalystSeyi/SQL-QA-Test-for-Amazing-Superstore)
 
 ***
-
-<br><br><br>
-
-  🚀Power BI   |    👀 SQL
-:------------------:  | :------------------:  | :------------------:
-[![](Github/j2.png)](https://github.com/AnalystSeyi/Amazing-Superstore-Analysis-Power-BI/) |[![](Github/sql1.png)](https://github.com/AnalystSeyi/SQL-QA-Test-for-Amazing-Superstore)
 
 
 <br><br>
