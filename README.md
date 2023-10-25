@@ -26,7 +26,8 @@ Write SQL queries and create a test document to QA the DASHBOARD developed in Po
 ***
 
 #### 👀 SQL
-[![]([Github/sql1.png)](https://www.linkedin.com/in/oluwaseyi-fatuase-16009b161/](https://github.com/AnalystSeyi/SQL-QA-Test-for-Amazing-Superstore))
+[![](Github/sql1.png)](https://github.com/AnalystSeyi/SQL-QA-Test-for-Amazing-Superstore)
+
 ***
 
 <br><br><br>
