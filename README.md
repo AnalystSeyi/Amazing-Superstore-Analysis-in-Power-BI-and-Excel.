@@ -21,10 +21,6 @@ Write SQL queries and create a test document to QA the DASHBOARD developed in Po
 [![](Github/j2.png)](https://github.com/AnalystSeyi/Amazing-Superstore-Analysis-Power-BI/)
 ***
 
-#### 🛠 Excel
-[![](Github/excel-smal.png)](https://www.linkedin.com/in/oluwaseyi-fatuase-16009b161/)
-***
-
 #### 👀 SQL
 [![](Github/sql1.png)](https://github.com/AnalystSeyi/SQL-QA-Test-for-Amazing-Superstore)
 
@@ -32,9 +28,9 @@ Write SQL queries and create a test document to QA the DASHBOARD developed in Po
 
 <br><br><br>
 
-  🚀Power BI   |  🛠 Excel  |  👀 SQL
+  🚀Power BI   |    👀 SQL
 :------------------:  | :------------------:  | :------------------:
-[![](Github/j2.png)](https://github.com/AnalystSeyi/Amazing-Superstore-Analysis-Power-BI/) | [![](Github/excel-smal.png)](https://www.linkedin.com/in/oluwaseyi-fatuase-16009b161/)|[![](Github/sql1.png)](https://www.linkedin.com/in/oluwaseyi-fatuase-16009b161/)
+[![](Github/j2.png)](https://github.com/AnalystSeyi/Amazing-Superstore-Analysis-Power-BI/) |[![](Github/sql1.png)](https://github.com/AnalystSeyi/SQL-QA-Test-for-Amazing-Superstore)
 
 
 <br><br>
